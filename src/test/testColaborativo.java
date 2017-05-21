@@ -9,8 +9,6 @@ import main.filtros.ColaborativeFiltering;
 public class testColaborativo {
 
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
-
 
 		ColaborativeFiltering filter = new ColaborativeFiltering();
 		//Elegimos el dataset 
